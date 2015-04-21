@@ -17,8 +17,10 @@
 #include <string.h>
 #include "linkedListUtil.h"
 
+
 int x[3] = {4,2,3};
 int y[4] = {4,2,6,10};
+
 
 typedef struct
 	{
