@@ -21,7 +21,7 @@
 #include <stdio.h>
 #include "linkedListUtil.h"
 
-Char text[3] = {'A','B','C'};
+Char text[4] = {'A','B','C','D'};
 
 
 /* Structure that represents one item of the list */
