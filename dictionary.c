@@ -17,8 +17,8 @@
 #include <string.h>
 #include "linkedListUtil.h"
 
-int x[3] = {1,2,3};
-int y[4] = {1,2,6,10};
+int x[3] = {5,2,3};
+int y[4] = {5,2,6,10};
 
 typedef struct
 	{
